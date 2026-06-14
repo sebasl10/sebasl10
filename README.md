@@ -1,5 +1,5 @@
 # 💫 About Me:
-Etudiant en 5ème année d'ingénierie informatique à l'INSA Lyon<br>Passioné par le développement full-stack et l'IA<br>Stagiaire en développement IA
+Etudiant en 5ème année d'ingénierie informatique à l'INSA Lyon<br>Passioné par le développement full-stack et l'IA<br>Stagiaire en développement IA chez CoreTechnologie
 
 
 ## 🌐 Socials:
