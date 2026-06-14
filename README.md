@@ -1,16 +1,14 @@
-# Hi, I'm Sebas 👋
+# Hi, I'm Sebastian 👋
 
 5th-year Computer Engineering student at INSA Lyon, originally from Colombia 🇨🇴
 
-I'm currently doing an internship at CoreTechnologie where I work on AI integration —
+I'm currently doing an internship at CoreTechnologie where I work on AI integration,
 deploying open-source LLMs on-premise, building RAG architectures, and extending
 internal tools with AI capabilities.
 
 I'm passionate about the intersection of AI and real-world applications. On the side,
-I build personal projects that actually get used — like a web app for the Colombian
+I build personal projects that actually get used, like a web app for the Colombian
 Air Force that helps pilots calculate maximum takeoff weight directly from the cockpit.
-
-Heading to Madrid next semester for an Erasmus exchange at UPM, focusing on AI & ML.
 
 ## What I work with
 
