@@ -1,6 +1,8 @@
 # Hi, I'm Sebastian 👋
 
-5th-year Computer Engineering student at INSA Lyon, originally from Colombia 🇨🇴
+5th-year Computer Engineering student at INSA Lyon, originally from Colombia 🇨🇴. 
+
+I'm passionate about full-stack development, data and AI.
 
 I'm currently doing an internship at CoreTechnologie where I work on AI integration,
 deploying open-source LLMs on-premise, building RAG architectures, and extending
